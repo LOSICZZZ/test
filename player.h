@@ -143,7 +143,7 @@ int Player::getLV()
 	return LV;
 }
 
-//Ôö¼ÓÊôĞÔ
+
 void Player::incHp(int ihp)
 {
 	HP += ihp;
